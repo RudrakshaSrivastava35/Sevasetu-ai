@@ -1,0 +1,5 @@
+{
+  "name": "SevaSetu AI",
+  "description": "Connecting NGOs, Volunteers & Communities to manage community needs efficiently.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
